@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "fiverocks-dev/tic-tac-toe-9x9",
-  "sourceCommit": "12500b25042569cd08f90748394d1de8397d2bb7",
+  "sourceCommit": "221e697ae7f4d47db22c5363978a162055afec8e",
   "buildWorkflow": "Private main preview candidate",
-  "buildRunId": "45605554314",
-  "builtAt": "2026-11-25T11:33:54.222Z",
+  "buildRunId": "45635698017",
+  "builtAt": "2026-11-25T14:35:28.650Z",
   "toolchain": "Node v22.23.5, esbuild 0.25.12",
   "files": [
     {
@@ -12,12 +12,12 @@
       "sha256": "b08521b66afcf434c046cec50da7da76a27e9584375f39e733d7bc0740247fb2"
     },
     {
-      "path": "assets/style-CKJ3S2KF.css",
-      "sha256": "088e951f40688aaf32ff8783a8bd6c8191b926979ae89ade80d79de3d989c5b2"
+      "path": "assets/style-JIRXZL2Y.css",
+      "sha256": "934a710988c6370e5631e35ea3d5104c39552aafb5fb2352add5571bb77c83dc"
     },
     {
       "path": "index.html",
-      "sha256": "db04d2ab9e00f24b9dba159a33f585a45bb56301ce05696182276ed35afa3a46"
+      "sha256": "901a5f080c79e8c8fab97de078986feaa537ee0b0e1c54f43e26cb5c1e6654f7"
     }
   ]
 }
