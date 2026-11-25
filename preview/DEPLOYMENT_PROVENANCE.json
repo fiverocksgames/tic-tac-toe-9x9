@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "fiverocks-dev/tic-tac-toe-9x9",
+  "sourceCommit": "4f01188308b90b12b07e61b78ca2939b54deabe7",
+  "buildWorkflow": "Private main preview candidate",
+  "buildRunId": "45508870055",
+  "builtAt": "2026-11-24T23:18:53.730Z",
+  "toolchain": "Node v22.23.5, esbuild 0.25.12",
+  "files": [
+    {
+      "path": "assets/main-RBMZKOOU.js",
+      "sha256": "b08521b66afcf434c046cec50da7da76a27e9584375f39e733d7bc0740247fb2"
+    },
+    {
+      "path": "assets/style-Y2H2ROVM.css",
+      "sha256": "e8752826a1b0e4e140125e974e19e22937a2e3e6ee5a943dbb5be7827663a2a1"
+    },
+    {
+      "path": "index.html",
+      "sha256": "5203c6d6184ab9ab5921c0242255bbfcf4ed03ef50c802083faa3a01c3ef1061"
+    }
+  ]
+}
