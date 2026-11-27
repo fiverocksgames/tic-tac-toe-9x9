@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "sourceRepository": "fiverocks-dev/tic-tac-toe-9x9",
-  "sourceCommit": "832ba714ce4c19509986f8ef619778ecd1e74dc1",
+  "sourceCommit": "ff522a18c97289f0dcd019d38e4ad8236ed46474",
   "buildWorkflow": "Private main preview candidate",
-  "buildRunId": "45831932163",
-  "builtAt": "2026-11-26T13:43:42.080Z",
+  "buildRunId": "45977452492",
+  "builtAt": "2026-11-27T09:53:45.453Z",
   "toolchain": "Node v22.23.5, esbuild 0.25.12",
   "files": [
     {
-      "path": "assets/main-WTJEUHUY.js",
-      "sha256": "99d1f4cfcc2daaaf719f5414332a330c16fcf8b70d7252cd40b602d339682d96"
+      "path": "assets/main-MDL3QN7S.js",
+      "sha256": "8544ecac133b9b7e19bd497f8b1b1df2dceb436c7d55f7186a67174429a2a6a1"
     },
     {
-      "path": "assets/style-ILA34UW7.css",
-      "sha256": "e0d16cec12b14f4a37bcadee9a21fbb04494a66666ff6caf59d486d5f90f7f1d"
+      "path": "assets/style-3ROZXDHT.css",
+      "sha256": "d5e2d5bd3a5bd1a3b1a48ee6ae9174ea7380a7d9e1091af56f2a7f2f914969ea"
     },
     {
       "path": "index.html",
-      "sha256": "88d35f73407df1f8794d76da016c67dceb4dd9a67f262d1998dd6375c0ec629b"
+      "sha256": "a437b84359df07b3e38689576f62cea92b48959807667fd41aa9982ac73019cc"
     }
   ]
 }
